@@ -1,0 +1,31 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+*.pnp.js
+*.pnp.cjs
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# Environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Optional: Compiled output
+/dist/
+/build/
+/out/

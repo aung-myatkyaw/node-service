@@ -1,0 +1,36 @@
+# Node.js related
+node_modules
+npm-debug.log
+yarn-error.log
+*.pnp.js
+*.pnp.cjs
+
+# Docker related
+.dockerignore
+.docker
+.docker-compose.yml
+
+# IDE and editor files
+.vscode
+.idea
+*.iml
+
+# Dependency directories
+jspm_packages
+typings
+
+# Environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Build and package directories
+dist
+build
+out
